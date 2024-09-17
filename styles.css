@@ -22,6 +22,10 @@ body{
     margin: 0 auto;
 }
 
+.table-container{
+    overflow-x:scroll
+}
+
 
 select,input{
     padding: 8px;
